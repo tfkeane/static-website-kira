@@ -1,7 +1,7 @@
 {
   "name": "static-site-example",
   "dependencies": {
-    "async": "^2.1.1",
+    "async": "^2.6.4",
     "cosmicjs": "^2.1.2",
     "del": "^2.2.2",
     "express": "^4.14.0",
